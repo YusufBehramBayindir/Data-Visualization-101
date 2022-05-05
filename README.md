@@ -7,6 +7,7 @@ Bu bölümde veri görselleştirme kütüphaneleri(seaborn,  ile inceleyip burad
  - Korelasyon Grafikleri
  - Çizgi Grafik
  - Basit Zaman Serisi
+
 Herkese başarılar :)
 
 
@@ -17,4 +18,5 @@ In this section, I studied with data visualization libraries and learned what op
    - Correlation Charts
    - Line Chart
    - Simple Time Series
+ 
 Good luck everyone :)
