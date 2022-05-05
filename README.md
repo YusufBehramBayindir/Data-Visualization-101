@@ -1,12 +1,12 @@
 # Data-Visualization-101
  
 TR| 
-Bu bölümde veri görselleştirme kütüphaneleri(seaborn,  ile inceleyip burada ne işlemler yapabileceğimi, elimde ki verilerle nasıl oynayabileceğimi öğrendim. Sıfırdan başlayıp veri görselleştirmede karşınıza çıkabilecek en temelden ileri seviyeye doğru düzenlediğim kodları alıp kullanabilirsiniz. Bu toplulukta bilginin paylaşılması ve bunun yaygınlaştırılması için çalışacağım. 
-    Modül içerisinde işlemiş olduğumuz konu başlıkları:
-    - Dağılım Grafikleri
-    - Korelasyon Grafikleri
-    - Çizgi Grafik
-    - Basit Zaman Serisi
+Bu bölümde veri görselleştirme kütüphaneleri(seaborn,  ile inceleyip burada ne işlemler yapabileceğimi, elimde ki verilerle nasıl oynayabileceğimi öğrendim. Sıfırdan başlayıp veri görselleştirmede karşınıza çıkabilecek en temelden ileri seviyeye doğru düzenlediğim kodları alıp kullanabilirsiniz. Bu toplulukta bilginin paylaşılması ve bunun yaygınlaştırılması için çalışacağım.    
+ Modül içerisinde işlemiş olduğumuz konu başlıkları:
+ - Dağılım Grafikleri
+ - Korelasyon Grafikleri
+ - Çizgi Grafik
+ - Basit Zaman Serisi
 Herkese başarılar :)
 
 
